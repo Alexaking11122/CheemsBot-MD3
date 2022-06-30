@@ -48,7 +48,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "🎧»_Rayan_«☆﹝💔﹞" //ur bot name
+global.botname = "CheemaBot-MD3" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "🎧»_Rayan_«☆﹝💔﹞ Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
